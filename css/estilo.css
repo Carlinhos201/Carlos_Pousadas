@@ -1,0 +1,48 @@
+body{
+    background: 		#FFFAF0;
+ }
+ 
+ 
+ 
+ #btnhome:hover{
+     background: white;
+     color: black;
+     border-radius: 1.5em;
+ }
+ #btnqmsomos:hover{
+     background: white;
+     color: black;
+     border-radius: 1.5em;
+ }
+ #btngaleria:hover{
+     background: white;
+     color: black;
+     border-radius: 1.5em;
+ }
+ #btncontato:hover{
+     background: white;
+     color: black;
+     border-radius: 1.5em;
+ }
+ 
+ #home{
+     background: #ffc107;
+     color: white;
+     font-weight: bold;
+ }
+ 
+ #nav-principal{
+     color: white;
+     font-weight: bold;
+ }
+ 
+ .caixa{
+     padding: 60px 0;
+     border-bottom: 1px solid #e5e5e5;
+ }
+ 
+ .contatoinicial{
+     background: 	#20B2AA;
+     color: white;
+     font-weight: bold;
+ }
